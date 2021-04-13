@@ -191,7 +191,7 @@ nav a:hover {
      
     } 
     
-    .about-box {
+    .organization-box {
       height: 100vh;
       background: url("https://assets.codepen.io/5009829/Pattern.jpeg");
       background-size: cover;
@@ -200,7 +200,7 @@ nav a:hover {
       align-items: center;
     }
     
-    .about-box-text {
+    .organization-box-text {
       width: 60%;
       text-align: center;
       background: rgba(0,0,0,.75);
@@ -209,7 +209,7 @@ nav a:hover {
     
     }
     
-    .event-box {
+    .effects-box {
       height: 200vh;
       background: url("https://assets.codepen.io/5009829/Visual+Style+%285%29.jpeg");
       background-size: cover;
@@ -218,7 +218,7 @@ nav a:hover {
       align-items: center; 
     } 
     
-    .event-box-text {
+    .effects-box-text {
       width: 60%;
       text-align: center;
       background: rgba(0,0,0,.75);
